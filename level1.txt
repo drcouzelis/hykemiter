@@ -1,0 +1,17 @@
+
+
+//--------
+
+start_x  215
+start_y  170
+
+//end_x__1000
+//end_y__1000
+
+//--------
+walkground  level1.bmp  3200 2000
+//will_need_far_and_scroll_ground
+farground  mountans.bmp  320 200
+scrollground  clouds.bmp  640 400  3
+
+next_level  level2.bmp

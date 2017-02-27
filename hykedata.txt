@@ -1,0 +1,16 @@
+
+
+//main_character
+
+//--------
+health  30
+
+//--------
+pic_file  hyke.bmp
+========
+//(stand,_run,_jump,_fall),_anim_pic_pos,_frame_w,_frame_h,_hori_and_vert_hit_radii,_num_of_frames,_time_to_wait,_loop_on/off
+anim_sets
+stand  1  60 80  5 10  1 15 1
+run  2  60 80  5 10  6 7 1
+end_anim_sets
+
